@@ -43,7 +43,7 @@
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-49" value="M煤矿 MK2 120pmin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-90" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZfzm9xs_ot9Pj_BeB6e-51" value="电力：左下 3纯煤&lt;div&gt;MK2 3*240=720=15*48&lt;/div&gt;&lt;div&gt;需18抽水机 3供给8&lt;/div&gt;&lt;div&gt;总电能约75*48 = 3600mW&lt;/div&gt;&lt;div&gt;需3MK2 18抽水 48发电（&lt;/div&gt;&lt;div&gt;每个MK2 对应16发电 6抽水&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;左 4中煤&lt;/div&gt;&lt;div&gt;MK2 4*120=480=24台 12抽水机&lt;/div&gt;&lt;div&gt;总发电1800mW&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="OZfzm9xs_ot9Pj_BeB6e-51" value="&lt;div&gt;1200/3600 mW&lt;/div&gt;电力：左下 3纯煤&lt;div&gt;MK2 3*240=720=15*48&lt;/div&gt;&lt;div&gt;需18抽水机 3供给8&lt;/div&gt;&lt;div&gt;总电能约75*48 = 3600mW&lt;/div&gt;&lt;div&gt;需3MK2 18抽水 48发电（&lt;/div&gt;&lt;div&gt;每个MK2 对应16发电 6抽水&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-400" y="75" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-54" value="M煤矿 MK2 120pmin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -336,10 +336,10 @@
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-257" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="295" y="620" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Stdsry_ZmVIjGEiSpqY--1" value="右下/左上 中钦金MK2 120pmin&lt;div&gt;4* 30-30=120钦金锭&lt;/div&gt;&lt;div&gt;10 * 12-60=600 极速电线&lt;/div&gt;&lt;div&gt;考虑建一个就够了，，剩下存起来&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;硫磺&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Stdsry_ZmVIjGEiSpqY--1" value="&lt;div&gt;SAM &amp;amp; 石英生产&lt;/div&gt;&lt;div&gt;左侧洞穴&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;右下/左上 中钦金MK2 120pmin&lt;div&gt;4* 30-30=120钦金锭&lt;/div&gt;&lt;div&gt;10 * 12-60=600 极速电线&lt;/div&gt;&lt;div&gt;考虑建一个就够了，，剩下存起来&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;硫磺&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-640" y="75" width="195" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="Stdsry_ZmVIjGEiSpqY--3" value="左左 2纯石英 1台MK1 120&lt;div&gt;6构筑 共200pmin够了&lt;/div&gt;&lt;div&gt;共MK1+6构筑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Stdsry_ZmVIjGEiSpqY--3" value="左左 2纯石英 1台MK1 120&lt;div&gt;6构筑 共200pmin够了&lt;/div&gt;&lt;div&gt;共MK1+6构筑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="320" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
