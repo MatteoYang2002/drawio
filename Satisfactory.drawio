@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="i8XOcRYiCNzHV1Cfkk7H">
-    <mxGraphModel dx="1811" dy="1794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4897" dy="3586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-70" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="680" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="40" width="320" height="320" as="geometry" />
+        </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-1" value="L铁矿 MK2 240pmin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry y="400" width="140" height="80" as="geometry" />
         </mxCell>
@@ -56,28 +62,28 @@
           <mxGeometry x="440" y="305" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-123" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="160" width="90" height="60" as="geometry" />
+          <mxGeometry x="870" y="70" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-124" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="230" width="90" height="60" as="geometry" />
+          <mxGeometry x="870" y="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-125" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="300" width="90" height="60" as="geometry" />
+          <mxGeometry x="870" y="190" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-126" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="370" width="90" height="60" as="geometry" />
+          <mxGeometry x="870" y="250" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-127" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="440" width="90" height="60" as="geometry" />
+          <mxGeometry x="1000" y="70" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-128" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="510" width="90" height="60" as="geometry" />
+          <mxGeometry x="1000" y="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-129" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="580" width="90" height="60" as="geometry" />
+          <mxGeometry x="1000" y="190" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-130" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="650" width="90" height="60" as="geometry" />
+          <mxGeometry x="1000" y="250" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-131" value="构筑 铁板30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="300" y="160" width="100" height="80" as="geometry" />
@@ -95,10 +101,10 @@
           <mxGeometry x="300" y="430" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-136" value="装配 强板&lt;div&gt;30板-60钉-5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="600" y="160" width="150" height="100" as="geometry" />
+          <mxGeometry x="730" y="-200" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-137" value="装配 强板&lt;div&gt;30板-60钉-5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="600" y="205" width="150" height="100" as="geometry" />
+          <mxGeometry x="730" y="-155" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-138" value="装配 强板&lt;div&gt;30板-60钉-5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="600" y="400" width="150" height="100" as="geometry" />
@@ -108,9 +114,6 @@
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-140" value="5 装配集群&amp;nbsp;&lt;div&gt;90板-180钉-15强板&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="615" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OZfzm9xs_ot9Pj_BeB6e-141" value="存储 强板&lt;div&gt;15-&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-142" value="L铁矿 MK2 240pmin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry y="960" width="140" height="80" as="geometry" />
@@ -256,22 +259,22 @@
           <mxGeometry x="470" y="750" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-231" value="装配 智能嵌板&lt;div&gt;2强板-2转子-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="950" y="660" width="150" height="100" as="geometry" />
+          <mxGeometry x="50" y="110" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-232" value="装配 智能嵌板&lt;div&gt;2强板-2转子-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="950" y="680" width="150" height="100" as="geometry" />
+          <mxGeometry x="50" y="130" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-233" value="装配 智能嵌板&lt;div&gt;2强板-2转子-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="950" y="700" width="150" height="100" as="geometry" />
+          <mxGeometry x="50" y="150" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-234" value="3装配集群&lt;div&gt;6强板-6转子-6智板&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="960" y="630" width="120" height="30" as="geometry" />
+          <mxGeometry x="60" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-235" value="存储 转子&lt;div&gt;12-6&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="860" width="100" height="50" as="geometry" />
+          <mxGeometry x="520" y="495" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-236" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="240" width="150" height="100" as="geometry" />
+          <mxGeometry x="1040" y="-210" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OZfzm9xs_ot9Pj_BeB6e-237" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="285" y="570" width="100" height="80" as="geometry" />
@@ -341,6 +344,405 @@
         </mxCell>
         <mxCell id="Stdsry_ZmVIjGEiSpqY--3" value="左左 2纯石英 1台MK1 120&lt;div&gt;6构筑 共200pmin够了&lt;/div&gt;&lt;div&gt;共MK1+6构筑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="40" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-7" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="70" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-8" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-9" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-10" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-11" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="70" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-12" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-13" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="190" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-14" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="250" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="360" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-16" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="870" y="390" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-17" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="870" y="450" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-18" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="870" y="510" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-19" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="870" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-20" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="390" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-21" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="450" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-22" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="510" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-23" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="360" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-25" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="390" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-26" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="450" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-27" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="510" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-28" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-29" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="390" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-30" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="450" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-31" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="510" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-32" value="冶炼 铁锭&lt;div&gt;30-30&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="680" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-34" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="680" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-35" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="360" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="680" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-37" value="层高12米 冶炼层" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="40" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="40" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-39" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="360" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="40" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-41" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="360" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-42" value="层高12米 构筑层" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="40" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-43" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="360" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-44" value="构筑 铁板30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="55" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-45" value="构筑 铁板30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="150" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-46" value="构筑 铁板30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-47" value="构筑 铁板30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2067.5" y="55" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-48" value="构筑 铁板30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2068" y="150" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-49" value="构筑 铁板30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2067.5" y="250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-50" value="构筑 铁棍15-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="60" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-51" value="构筑 铁棍15-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2381" y="60" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-52" value="构筑 铁棍15-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="140" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-53" value="构筑 铁棍15-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2381" y="140" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-54" value="构筑 铁棍15-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="220" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-55" value="构筑 铁棍15-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2381" y="220" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-56" value="构筑 铁棍15-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="300" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-57" value="构筑 铁棍15-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2381" y="300" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-63" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="680" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-69" value="构筑 钢管 30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="465" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-71" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="680" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="60" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-73" value="构筑 钢管 30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="370" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="60" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="250" width="250" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-78" value="构筑 钢管 30-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="560" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-79" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-80" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="470" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-81" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="550" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-82" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-83" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="470" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-84" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="550" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-85" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="405" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-86" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="475" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-87" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="555" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-94" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="710" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-95" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="780" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-96" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="860" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-97" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="710" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-98" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="780" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-99" value="构筑 铁钉&amp;nbsp;&lt;div&gt;12.5-50&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="860" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-100" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="370" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-101" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="190" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="570" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-103" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PZnoFgIiRui3hvkY3LLT-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="490" as="sourcePoint" />
+            <mxPoint x="1300" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-104" value="构筑机动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="710" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-105" value="构筑机动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="820" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-106" value="存储 混凝土" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-107" value="存储 混凝土" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="135" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-108" value="存储 混凝土" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-109" value="存储 混凝土" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-110" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-100" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-111" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1200" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-120" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1200" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-129" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1520" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-138" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1520" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-147" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1840" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-148" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="1840" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-149" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1520" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-150" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1840" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-151" value="层高12米 冶炼层" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1200" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-158" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1220" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-159" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1330" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-160" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1440" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-161" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1220" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-162" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1330" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-163" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1440" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-164" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1220" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-165" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1330" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-166" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1440" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-167" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1570" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-168" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1680" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-169" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1790" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-170" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1570" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-171" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1680" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-172" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1790" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-173" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1590" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-174" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1700" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-175" value="装配 铁框&lt;div&gt;12棍-3强板-2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1810" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-176" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-240" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-177" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="1840" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-178" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1200" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-179" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1520" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-180" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="1200" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-181" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="1520" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-182" value="层高12米 构筑层" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1200" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-183" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1520" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-198" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="1840" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-200" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="2580" y="1840" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-224" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1250" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-225" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1490" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-226" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1740" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-228" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="1250" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-229" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="1490" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-230" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="1740" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-231" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1250" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-232" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1490" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PZnoFgIiRui3hvkY3LLT-233" value="制造站" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="1740" width="220" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
