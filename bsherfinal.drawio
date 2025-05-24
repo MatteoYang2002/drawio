@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="149" y="1400" width="141" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-30" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="194" y="670" width="1075" height="300" as="geometry" />
         </mxCell>
@@ -208,10 +211,43 @@
           <mxGeometry x="670" y="1266" width="90" height="54" as="geometry" />
         </mxCell>
         <mxCell id="UN--M1qzdoFLLi-wLeMt-30" value="缓存命中预测&lt;div&gt;并行缓存访问&lt;/div&gt;&lt;div&gt;内存预取&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="761.5" y="1266" width="128.5" height="54" as="geometry" />
+          <mxGeometry x="760" y="1266" width="130" height="54" as="geometry" />
         </mxCell>
         <mxCell id="UN--M1qzdoFLLi-wLeMt-31" value="写合并&lt;div&gt;多端存储写入&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="890" y="1266" width="110" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-32" value="&lt;div&gt;Block Start Barrier&lt;/div&gt;某条耗时很长的指令" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-33" value="&lt;div&gt;Block End Barrier&lt;/div&gt;某条耗时很长的指令" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-34" value="&lt;div&gt;Test Instr&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="213" y="1430" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-35" value="&lt;div&gt;Test Instr&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="213" y="1450" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-36" value="&lt;div&gt;Test Instr&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="213" y="1470" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-37" value="&lt;div&gt;Test Instr&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="213" y="1490" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-38" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1510" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-40" value="Buffer Size" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="316.5" y="1465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="304.5" y="1400" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="184" y="1430" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UN--M1qzdoFLLi-wLeMt-43" value="控制&lt;div&gt;条数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140.5" y="1467.5" width="53.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
